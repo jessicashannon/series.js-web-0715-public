@@ -20,7 +20,7 @@ series.slices(6);
   * instances have a digits property that stores an array of the split string as integers; ex. [1, 2, 3, 4]
 * The `#slices` method
   * accepts a number as an argument
-  * returns an array of arrays 
+  * returns an array of arrays
     * Each inner array has a length of the size of the `#slices` argument and contains the numbers based on their position in the string
 
 ## Tests
